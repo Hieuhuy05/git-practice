@@ -1,4 +1,4 @@
 # Git Practice
-Giới thiệu: Tôi là <Trần Huỳnh Đăng Khôi>, MSSV <225983>.
+Giới thiệu: Tôi là <Lâm Hiếu Huy>, MSSV <222458>.
 
 
