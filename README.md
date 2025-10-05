@@ -1,5 +1,5 @@
 # Git Practice
-Giới thiệu: Tôi là Huy, đang ở nhánh main.
+Giới thiệu: Tôi là Huy — bản sửa từ nhánh conflict-demo.
 
 <<<<<<< HEAD
 
