@@ -1,5 +1,6 @@
 # Git Practice
-Giới thiệu: Tôi là Huy, MSSV 222458.
+Giới thiệu: Tôi là Huy, đang ở nhánh main.
+
 <<<<<<< HEAD
 
 main version
