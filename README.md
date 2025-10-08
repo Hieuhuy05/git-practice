@@ -1,9 +1,5 @@
 # Git Practice
-<<<<<<< HEAD
-main version
-=======
-conflict version
->>>>>>> conflict-demo
+Giới thiệu: Tôi là <Lâm Hiếu Huy>, MSSV <222458>.
 
 
 
